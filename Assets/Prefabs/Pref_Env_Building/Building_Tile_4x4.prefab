@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4451422395056937766}
+  - component: {fileID: 1102430077101619477}
   m_Layer: 0
   m_Name: Building_Tile_4x4
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 8817722828110961209}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1102430077101619477
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7095157678001129144}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.48, y: 1, z: 4.25}
+  m_Center: {x: -1.92, y: -0.65, z: -1.88}
 --- !u!1001 &9066978932604370386
 PrefabInstance:
   m_ObjectHideFlags: 0

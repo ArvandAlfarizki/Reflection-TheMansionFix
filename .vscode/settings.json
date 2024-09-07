@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Reflection-TheMansion.sln"
+    "dotnet.defaultSolution": "Reflection-TheMansionFix.sln"
 }
